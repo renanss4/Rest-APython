@@ -1,0 +1,9 @@
+1 - How can I use uv package manager in this project?
+
+2 - Add tests
+
+3 - Would like to use the pre-commit library, which would make it impossible to commit without all tests being run
+
+4 - Learn to Use GitHub Actions
+
+5 - Use EC2 AWS to database
